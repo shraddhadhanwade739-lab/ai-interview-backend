@@ -1,2 +1,10 @@
-uvicorn
 fastapi
+uvicorn
+python-multipart
+pydantic
+supabase
+requests
+openai
+whisper
+pandas
+numpy
